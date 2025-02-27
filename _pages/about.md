@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Zeyi Ren, a M.Phil. student at the department of EEE, The University of Hong Kong (HKU), supervised by [Prof. Yik-Chung Wu](https://www.eee.hku.hk/~ycwu/). Before that, I got my B.Eng. degree in Electronics and Information Engineering from Beijing Institute of Technology (BIT). Previously I worked as a visiting research intern at [Shenzhen Research Institute of Big Data](https://www.sribd.cn/), collaborated with [Dr. Yang Li](https://www.researchgate.net/profile/Yang-Li-196).
+Hi, I’m Zeyi Ren, a M.Phil. student at the department of EEE, The University of Hong Kong (HKU), supervised by [Prof. Yik-Chung Wu](https://www.eee.hku.hk/~ycwu/). Before that, I got my B.Eng. degree in Electronics and Information Engineering from Beijing Institute of Technology (BIT). I have also worked as a visiting research intern at [Shenzhen Research Institute of Big Data](https://www.sribd.cn/), collaborated with [Dr. Yang Li](https://www.researchgate.net/profile/Yang-Li-196).
 
 My research interests mainly focus on **Interpretable-AI for Wireless Communication** and **Statistical Machine Learning**.<br>
 During my undergraduate studies, I concentrated on Localization problems in wireless networks, with a particular emphasis on the Cooperative Localization.<br>
