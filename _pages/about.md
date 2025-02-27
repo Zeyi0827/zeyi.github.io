@@ -15,14 +15,14 @@ During my undergraduate studies, I concentrated on Localization problems in wire
 I'm also a Bilibili influencer with 160k followers, where you can check my videos by searching the ID [*向前的赵*](https://space.bilibili.com/471218890?spm_id_from=333.1007.0.0)
 
 Selected Works
-======
+------
 - [**Generalizable Autonomous Driving System across Diverse Adverse Weather Conditions**](https://arxiv.org/abs/2409.14737)<br>
 Weibin Kou, Guangxu Zhu, Rongguang Ye, Qingfeng Lin, **Zeyi Ren**, Ming Tang, Yik-Chung Wu
 
 Full list in [Google Scholar](https://scholar.google.com/citations?user=bdkdiw4AAAAJ&hl=en)
 
 Education
-======
+------
 -**The University of Hong Kong**<br>
  **M.Phil. in Wireless Communication and Machine Learning**<br>
  September 2023 to present
