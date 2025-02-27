@@ -12,7 +12,7 @@ Hi, I’m Zeyi Ren, a M.Phil. student at the department of EEE, The University o
 My research interests mainly focus on **Interpretable-AI for Wireless Communication** and **Statistical Machine Learning**.<br>
 During my undergraduate studies, I concentrated on Localization problems in wireless networks, with a particular emphasis on the Cooperative Localization.<br>
 
-I'm also a Bilibili influencer with 160k followers, where you can check my videos by searching the ID [**向前的赵**](https://space.bilibili.com/471218890?spm_id_from=333.1007.0.0)
+I'm also a Bilibili influencer with 160k followers, where you can check my videos by searching the ID [*向前的赵*](https://space.bilibili.com/471218890?spm_id_from=333.1007.0.0)
 
 Selected Works
 ======
