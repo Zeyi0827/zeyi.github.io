@@ -14,27 +14,27 @@ During my undergraduate studies, I concentrated on Localization problems in wire
 
 Selected Works
 ======
-- [**Generalizable Autonomous Driving System across Diverse Adverse Weather Conditions**](https://arxiv.org/abs/2409.14737)
+- [**Generalizable Autonomous Driving System across Diverse Adverse Weather Conditions**](https://arxiv.org/abs/2409.14737)<br>
 Weibin Kou, Guangxu Zhu, Rongguang Ye, Qingfeng Lin, **Zeyi Ren**, Ming Tang, Yik-Chung Wu
 
 Full list in [Google Scholar](https://scholar.google.com/citations?user=bdkdiw4AAAAJ&hl=en)
 
 Education
 ======
--**The University of Hong Kong**
- **M.Phil. in Wireless Communication and Machine Learning**
+-**The University of Hong Kong**<br>
+ **M.Phil. in Wireless Communication and Machine Learning**<br>
  September 2023 to present
 
- -**Beijing Institute of Technology**
- **B.Eng. in Electronics and Information Engineering**
+ -**Beijing Institute of Technology**<br>
+ **B.Eng. in Electronics and Information Engineering**<br>
  September 2019 to June 2023
 
 Intern & Work Experience
 ------
--**Shenzhen Research Institute of Big Data**
-August 2024 to February 2025
-Position: visiting research intern
-Project:
-  ○ Power allocation algorithm with base station on-off
-  ○ Mixture of Expert (MoE)-augmented wireless networking
+-**Shenzhen Research Institute of Big Data**<br>
+August 2024 to February 2025<br>
+Position: visiting research intern<br>
+Project:<br>
+  ○ Power allocation algorithm with base station on-off<br>
+  ○ Mixture of Expert (MoE)-augmented wireless networking<br>
 
