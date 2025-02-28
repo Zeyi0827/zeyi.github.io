@@ -42,3 +42,6 @@ Project:<br>
   ○ Power allocation algorithm with base station on-off<br>
   ○ Mixture of Expert (MoE)-augmented wireless networking<br>
 
+Other Activities
+------
+*I like playing football at my spire time. I'm also the captain of HKU Postgraduate Student Association (PGSA) football team.*
