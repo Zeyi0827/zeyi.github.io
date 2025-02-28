@@ -32,10 +32,10 @@ author:
   email            : "renzeyi@eee.hku.hk" 
 
   # Academic websites
-  arxiv            : "https://arxiv.org/user/"
+  arxiv            : # URL
   googlescholar    : "https://scholar.google.com/citations?user=bdkdiw4AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0004-9083-5323"
+  orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
