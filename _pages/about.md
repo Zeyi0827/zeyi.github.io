@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Zeyi Ren, a M.Phil. student at the department of EEE, The University of Hong Kong (HKU), supervised by [Prof. Yik-Chung Wu](https://www.eee.hku.hk/~ycwu/). Before that, I got my B.Eng. degree in Electronics and Information Engineering from Beijing Institute of Technology (BIT). I have also worked as a visiting research intern at [Shenzhen Research Institute of Big Data](https://www.sribd.cn/), collaborated with [Dr. Yang Li](https://www.researchgate.net/profile/Yang-Li-196).
+Hi, I’m Zeyi Ren, a M.Phil. student at the department of EEE, The University of Hong Kong (HKU), supervised by [Prof. Yik-Chung Wu](https://www.eee.hku.hk/~ycwu/). Before that, I got my B.Eng. degree in Electronics and Information Engineering from Beijing Institute of Technology (BIT). I have also worked as a visiting research intern at [Shenzhen Research Institute of Big Data](https://www.sribd.cn/), collaborated with [Dr. Yang Li](https://www.researchgate.net/profile/Yang-Li-196) (Transferring to Great Bay University in March 2025).
 
 My research interests mainly focus on **Interpretable-AI for Wireless Communication** and **Statistical Machine Learning**.<br>
 During my undergraduate studies, I concentrated on Localization problems in wireless networks, with a particular emphasis on the Cooperative Localization.<br>
@@ -39,9 +39,9 @@ Intern & Work Experience
 August 2024 to February 2025<br>
 Position: visiting research intern<br>
 Project:<br>
-  ○ Power allocation algorithm with base station on-off<br>
+  ○ User allocation algorithm with mixed integer optimization<br>
   ○ Mixture of Expert (MoE)-augmented wireless networking<br>
 
 Other Activities
 ------
-*I like playing football at my spire time. I'm the captain of **HKU Postgraduate Student Association (PGSA)** football team. And I'm also a registered player of [Hong Kong Legal League (division 2)](https://legalleague.leaguerepublic.com/index.html) play for **Dong Feng Express***
+*I like playing football at my spire time. I'm the captain of **HKU Postgraduate Student Association (PGSA)** football team. And I'm also a registered player of [Hong Kong Legal League (division 2)](https://legalleague.leaguerepublic.com/index.html) playing for **Dong Feng Express***
