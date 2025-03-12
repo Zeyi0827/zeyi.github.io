@@ -44,4 +44,4 @@ Project:<br>
 
 Other Activities
 ------
-*I like playing football at my spire time. I'm the captain of **HKU Postgraduate Student Association (PGSA)** football team. And I'm also a registered player of [Hong Kong Legal League (division 2)](https://legalleague.leaguerepublic.com/index.html) playing for **Dong Feng Express***
+*I like playing football at my spare time. I'm the captain of **HKU Postgraduate Student Association (PGSA)** football team. And I'm also a registered player of [Hong Kong Legal League (division 2)](https://legalleague.leaguerepublic.com/index.html) playing for **Dong Feng Express***
