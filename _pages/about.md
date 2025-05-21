@@ -16,10 +16,15 @@ I'm also a Bilibili influencer with 160k followers, where you can check my video
 
 Selected Works
 ------
-- [**Generalizable Autonomous Driving System across Diverse Adverse Weather Conditions**](https://arxiv.org/abs/2409.14737)<br>
-Weibin Kou, Guangxu Zhu, Rongguang Ye, Qingfeng Lin, **Zeyi Ren**, Ming Tang, Yik-Chung Wu<br>
 - [**Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems**](https://arxiv.org/abs/2502.20183)<br>
 **Zeyi Ren**, Qingfeng Lin, Jingreng Lei, Yang Li, Yik-Chung Wu
+- [**Nonparametric Teaching for Graph Property Learners**](https://arxiv.org/abs/2505.14170)<br>
+Accepted as ICML 2025 <span style="color: red;">spotlight poster (top 2.6%)</span>
+Chen Zhang, Weixin Bu, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
+- [**Deep Unfolding with Kernel-based Quantization in MIMO Detection**](https://arxiv.org/abs/2505.12736)<br>
+**Zeyi Ren**, Jingreng Lei, Yichen Jin, Ermo Hua, Qingfeng Lin, Chen Zhang, Bowen Zhou, Yik-Chung Wu
+- [**Generalizable Autonomous Driving System across Diverse Adverse Weather Conditions**](https://arxiv.org/abs/2409.14737)<br>
+Weibin Kou, Guangxu Zhu, Rongguang Ye, Qingfeng Lin, **Zeyi Ren**, Ming Tang, Yik-Chung Wu<br>
 
 Full list in [Google Scholar](https://scholar.google.com/citations?user=bdkdiw4AAAAJ&hl=en)
 
