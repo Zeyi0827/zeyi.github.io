@@ -50,13 +50,13 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=bdkdiw4A
 
 🖊 Education
 ------
-<img src="images/HKU.png" align="left" width="150" height="180"/>
+<img src="images/HKU.png" align="left" width="80" height="100"/>
 - **The University of Hong Kong**<br>
  **M.Phil. in Wireless Communications and Machine Learning**<br>
  September 2023 to present
 <br clear="left"/>
 
-<img src="images/BIT.png" align="left" width="150" height="180"/>
+<img src="images/BIT.png" align="left" width="80" height="100"/>
  - **Beijing Institute of Technology**<br>
  **B.Eng. in Electronics and Information Engineering**<br>
  September 2019 to June 2023
@@ -64,7 +64,7 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=bdkdiw4A
 
 Intern & Work Experience
 ------
-<img src="images/SRIBD.png" align="left" width="150" height="180"/>
+<img src="images/SRIBD.png" align="left" width="80" height="100"/>
 - **Shenzhen Research Institute of Big Data**<br>
 August 2024 to February 2025<br>
 Position: visiting research intern<br>
@@ -73,7 +73,7 @@ Project:<br>
   ○ Mixture of Expert (MoE)-augmented wireless networking<br>
 <br clear="left"/>
 
-<img src="images/huawei.png" align="left" width="150" height="180"/>
+<img src="images/huawei.png" align="left" width="80" height="100"/>
 - **Huawei Technologies, Shanghai**<br>
 August 2025 to November 2025<br>
 Position: AI research intern<br>
@@ -84,4 +84,4 @@ Project:<br>
 
 Other Activities
 ------
-*I like playing football at my spare time. I'm the captain of **HKU Postgraduate Student Association (PGSA)** football team. And I'm also a registered player of [Hong Kong Legal League (division 2)](https://legalleague.leaguerepublic.com/index.html) playing for **Dong Feng Express***
+*I like playing football at my spare time. I'm the captain of **HKU Postgraduate Student Association (PGSA)** football team. And I'm also a registered player of [Hong Kong Legal League (division 2)](https://legalleague.leaguerepublic.com/index.html) playing for **Dong Feng Express**🚀*
