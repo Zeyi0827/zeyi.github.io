@@ -62,7 +62,7 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=bdkdiw4A
     September 2019 to June 2023
 <br clear="left"/>
 
-Intern & Work Experience
+💻 Intern & Work Experience
 ------
 <img src="images/SRIBD.png" align="left" width="80" height="100"/>
     **Shenzhen Research Institute of Big Data**<br>
