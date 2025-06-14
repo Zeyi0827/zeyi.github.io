@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋😀Hi, I’m Zeyi Ren, a M.Phil. student at the department of EEE, The University of Hong Kong (HKU), supervised by [Prof. Yik-Chung Wu](https://www.eee.hku.hk/~ycwu/). Before that, I got my B.Eng. degree in Electronics and Information Engineering from Beijing Institute of Technology (BIT). I have also worked as a visiting research intern at [Shenzhen Research Institute of Big Data](https://www.sribd.cn/), collaborated with [Dr. Yang Li](https://www.researchgate.net/profile/Yang-Li-196) (Joined Great Bay University as Associate Professor in March 2025).
+👋😀Hi, I’m Zeyi Ren, a M.Phil. student at the department of EEE, The University of Hong Kong (HKU), supervised by [Prof. Yik-Chung Wu](https://www.eee.hku.hk/~ycwu/). Before that, I got my B.Eng. degree in Electronics and Information Engineering from Beijing Institute of Technology (BIT). I have also worked as a visiting research intern at [Shenzhen Research Institute of Big Data](https://www.sribd.cn/), collaborated with [Prof. Yang Li](https://www.researchgate.net/profile/Yang-Li-196) (Joined Great Bay University as Associate Professor in March 2025).
 
 My research interests mainly focus on **Interpretable-AI for Wireless Communications** and **Statistical Machine Learning**.<br>
 During my undergraduate studies, I concentrated on Localization problems in wireless networks, with a particular emphasis on the Cooperative Localization.<br>
@@ -50,22 +50,37 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=bdkdiw4A
 
 🖊 Education
 ------
+<img src="images/HKU.png" align="left" width="150" height="180"/>
 - **The University of Hong Kong**<br>
  **M.Phil. in Wireless Communications and Machine Learning**<br>
  September 2023 to present
+<br clear="left"/>
 
+<img src="images/BIT.png" align="left" width="150" height="180"/>
  - **Beijing Institute of Technology**<br>
  **B.Eng. in Electronics and Information Engineering**<br>
  September 2019 to June 2023
+<br clear="left"/>
 
 Intern & Work Experience
 ------
+<img src="images/SRIBD.png" align="left" width="150" height="180"/>
 - **Shenzhen Research Institute of Big Data**<br>
 August 2024 to February 2025<br>
 Position: visiting research intern<br>
 Project:<br>
   ○ User allocation algorithm with mixed integer optimization<br>
   ○ Mixture of Expert (MoE)-augmented wireless networking<br>
+<br clear="left"/>
+
+<img src="images/huawei.png" align="left" width="150" height="180"/>
+- **Huawei Technologies, Shanghai**<br>
+August 2025 to November 2025<br>
+Position: AI research intern<br>
+Project:<br>
+  ○ LLM-embedded wireless systems<br>
+  ○ Diffusion models and flow matching for channel extimation<br>
+<br clear="left"/>
 
 Other Activities
 ------
