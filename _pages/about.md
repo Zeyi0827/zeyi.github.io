@@ -18,39 +18,12 @@ I'm also a Bilibili influencer with 160k followers, where you can check my video
 
 📃 Selected Works
 ------
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Spotlight</div><img src='images/GCN.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**<span style="color:royalblue">[Nonparametric Teaching for Graph Property Learners](https://arxiv.org/abs/2505.14170)</span>**  
-__Chen Zhang__\*, Weixin Bu\*, Zeyi Ren, Zhengwu Liu, Yik-Chung Wu, Ngai Wong  
-<span style="color:red; font-style:italic;">ICML 2025 <b>Spotlight</b> </span>(representing the <span style="color:red; font-style:italic;">top 2.6%</span> of 12107 submissions, and are the submissions most highly-recommended by the program committee)  
-[arXiv](http://arxiv.org/pdf/2505.14170) | [<span style="color:orange;">project page</span>](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/grant.html) | [code](https://github.com/chen2hang/GraNT_NonparametricTeaching) | [poster](../_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Poster.pdf) | [slides](../_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Slides.pdf) | [openreview](https://openreview.net/forum?id=wbvshlfyB0) | <span onclick="toggleDivIcml2025()" style="color: #52adc8; text-decoration: underline; cursor: pointer;">bib</span>  
-<div id="icml2025" style="display: none;">
-<pre>
-@inproceedings{zhang2025nonparametric,
-  title={Nonparametric Teaching  for Graph Property Learners},
-  author={Zhang, Chen and Bu, Weixin and Ren, Zeyi and Liu, Zhengwu and Wu, Yik-Chung and Wong, Ngai},
-  booktitle={ICML},
-  year={2025}
-}
-</pre>
-</div>
-<script>
-function toggleDivIcml2025() {
-  var bibDiv = document.getElementById("icml2025");
-  if (bibDiv.style.display === "none") {
-    bibDiv.style.display = "block";
-  } else {
-    bibDiv.style.display = "none";
-  }
-}
-</script>
-
-</div>
-</div>
-
 - [**Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems**](https://arxiv.org/abs/2502.20183)<br>
-**Zeyi Ren**, Qingfeng Lin, Jingreng Lei, Yang Li, Yik-Chung Wu <br>
+**Zeyi Ren**, Qingfeng Lin, Jingreng Lei, Yang Li, Yik-Chung Wu
+- [**Nonparametric Teaching for Graph Property Learners**](https://arxiv.org/abs/2505.14170)<br>
+<span style="color: red;">Accepted as *ICML 2025* spotlight poster (top 2.6%) </span><br>
+<span style="color: orange;">[project page](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/grant.html) | [code](https://github.com/chen2hang/GraNT_NonparametricTeaching) | [poster](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Poster.pdf) | [slide](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Slides.pdf)</span><br>
+Chen Zhang, Weixin Bu, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
 - [**Deep Unfolding with Kernel-based Quantization in MIMO Detection**](https://arxiv.org/abs/2505.12736)<br>
 <span style="color: red;">Accepted by *ICML ML4Wireless Workshop 2025* </span><br>
 **Zeyi Ren**, Jingreng Lei, Yichen Jin, Ermo Hua, Qingfeng Lin, Chen Zhang, Bowen Zhou, Yik-Chung Wu
