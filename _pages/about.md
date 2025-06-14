@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Zeyi Ren, a M.Phil. student at the department of EEE, The University of Hong Kong (HKU), supervised by [Prof. Yik-Chung Wu](https://www.eee.hku.hk/~ycwu/). Before that, I got my B.Eng. degree in Electronics and Information Engineering from Beijing Institute of Technology (BIT). I have also worked as a visiting research intern at [Shenzhen Research Institute of Big Data](https://www.sribd.cn/), collaborated with [Dr. Yang Li](https://www.researchgate.net/profile/Yang-Li-196) (Joined Great Bay University as Associate Professor in March 2025).
+👋😀Hi, I’m Zeyi Ren, a M.Phil. student at the department of EEE, The University of Hong Kong (HKU), supervised by [Prof. Yik-Chung Wu](https://www.eee.hku.hk/~ycwu/). Before that, I got my B.Eng. degree in Electronics and Information Engineering from Beijing Institute of Technology (BIT). I have also worked as a visiting research intern at [Shenzhen Research Institute of Big Data](https://www.sribd.cn/), collaborated with [Dr. Yang Li](https://www.researchgate.net/profile/Yang-Li-196) (Joined Great Bay University as Associate Professor in March 2025).
 
 My research interests mainly focus on **Interpretable-AI for Wireless Communications** and **Statistical Machine Learning**.<br>
 During my undergraduate studies, I concentrated on Localization problems in wireless networks, with a particular emphasis on the Cooperative Localization.<br>
@@ -16,7 +16,7 @@ I'm also a Bilibili influencer with 160k followers, where you can check my video
 
 <span style="color: red;">*I'm joining Huawei Shanghai as a AI research intern in August 2025*. </span>
 
-Selected Works
+📃 Selected Works
 ------
 - [**Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems**](https://arxiv.org/abs/2502.20183)<br>
 **Zeyi Ren**, Qingfeng Lin, Jingreng Lei, Yang Li, Yik-Chung Wu
@@ -32,7 +32,7 @@ Weibin Kou, Guangxu Zhu, Rongguang Ye, Qingfeng Lin, **Zeyi Ren**, Ming Tang, Yi
 
 Full list in [Google Scholar](https://scholar.google.com/citations?user=bdkdiw4AAAAJ&hl=en)
 
-Education
+🖊 Education
 ------
 -**The University of Hong Kong**<br>
  **M.Phil. in Wireless Communications and Machine Learning**<br>
