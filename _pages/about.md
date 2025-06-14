@@ -33,13 +33,14 @@ Chen Zhang, Weixin Bu, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
 <br clear="left"/>
 
 
-<img src="images/KAQ.png" align="left" width="250" height="300"/>
+<img src="images/KAQ.png" align="left" width="280" height="350"/>
 - [**Deep Unfolding with Kernel-based Quantization in MIMO Detection**](https://arxiv.org/abs/2505.12736)<br>
 <span style="color: red;">Accepted by *ICML ML4Wireless Workshop 2025* </span><br>
+**Zeyi Ren**, Jingreng Lei, Yichen Jin, Ermo Hua, Qingfeng Lin, Chen Zhang, Bowen Zhou, Yik-Chung Wu
 <br clear="left"/>
 
 
-**Zeyi Ren**, Jingreng Lei, Yichen Jin, Ermo Hua, Qingfeng Lin, Chen Zhang, Bowen Zhou, Yik-Chung Wu
+
 - [**Generalizable Autonomous Driving System across Diverse Adverse Weather Conditions**](https://arxiv.org/abs/2409.14737)<br>
 Weibin Kou, Guangxu Zhu, Rongguang Ye, Qingfeng Lin, **Zeyi Ren**, Ming Tang, Yik-Chung Wu<br>
 
