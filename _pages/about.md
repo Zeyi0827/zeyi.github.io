@@ -19,7 +19,9 @@ I'm also a Bilibili influencer with 160k followers, where you can check my video
 📃 Selected Works
 ------
 - [**Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems**](https://arxiv.org/abs/2502.20183)<br>
-**Zeyi Ren**, Qingfeng Lin, Jingreng Lei, Yang Li, Yik-Chung Wu
+**Zeyi Ren**, Qingfeng Lin, Jingreng Lei, Yang Li, Yik-Chung Wu <br>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Spotlight</div><img src='images/GCN.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
 - [**Nonparametric Teaching for Graph Property Learners**](https://arxiv.org/abs/2505.14170)<br>
 <span style="color: red;">Accepted as *ICML 2025* spotlight poster (top 2.6%) </span><br>
 <span style="color: orange;">[project page](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/grant.html) | [code](https://github.com/chen2hang/GraNT_NonparametricTeaching) | [poster](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Poster.pdf) | [slide](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Slides.pdf)</span><br>
