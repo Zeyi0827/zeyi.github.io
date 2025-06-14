@@ -33,32 +33,34 @@ Chen Zhang, Weixin Bu, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
 <br clear="left"/>
 
 
-<img src="images/KAQ.png" align="left" width="280" height="350"/>
+<img src="images/KAQ.png" align="left" width="250" height="300"/>
 - [**Deep Unfolding with Kernel-based Quantization in MIMO Detection**](https://arxiv.org/abs/2505.12736)<br>
 <span style="color: red;">Accepted by *ICML ML4Wireless Workshop 2025* </span><br>
 **Zeyi Ren**, Jingreng Lei, Yichen Jin, Ermo Hua, Qingfeng Lin, Chen Zhang, Bowen Zhou, Yik-Chung Wu
 <br clear="left"/>
 
 
-
+<img src="images/TSMC.png" align="left" width="250" height="300"/>
 - [**Generalizable Autonomous Driving System across Diverse Adverse Weather Conditions**](https://arxiv.org/abs/2409.14737)<br>
+<span style="color: orange;">Submitted to *IEEE TSMC* </span><br>
 Weibin Kou, Guangxu Zhu, Rongguang Ye, Qingfeng Lin, **Zeyi Ren**, Ming Tang, Yik-Chung Wu<br>
+<br clear="left"/>
 
 Full list in [Google Scholar](https://scholar.google.com/citations?user=bdkdiw4AAAAJ&hl=en)
 
 🖊 Education
 ------
--**The University of Hong Kong**<br>
+- **The University of Hong Kong**<br>
  **M.Phil. in Wireless Communications and Machine Learning**<br>
  September 2023 to present
 
- -**Beijing Institute of Technology**<br>
+ - **Beijing Institute of Technology**<br>
  **B.Eng. in Electronics and Information Engineering**<br>
  September 2019 to June 2023
 
 Intern & Work Experience
 ------
--**Shenzhen Research Institute of Big Data**<br>
+- **Shenzhen Research Institute of Big Data**<br>
 August 2024 to February 2025<br>
 Position: visiting research intern<br>
 Project:<br>
