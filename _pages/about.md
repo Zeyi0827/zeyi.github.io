@@ -9,7 +9,7 @@ redirect_from:
 
 👋😀Hi, I’m Zeyi Ren, a M.Phil. student at the [department of EEE, The University of Hong Kong (HKU)](https://www.eee.hku.hk/), supervised by [Prof. Yik-Chung Wu](https://www.eee.hku.hk/~ycwu/). Before that, I got my B.Eng. degree in Electronics and Information Engineering from [Beijing Institute of Technology (BIT)](https://sie.bit.edu.cn/). I have also worked as a visiting research intern at [Shenzhen Research Institute of Big Data](https://www.sribd.cn/), collaborated with [Prof. Yang Li](https://liyangblade.github.io/) (Joined [Great Bay University](https://www.gbu.edu.cn/) as Associate Professor in March 2025).
 
-My research interests mainly focus on **Interpretable-AI for Wireless Communications**🍀 and **Statistical Machine Learning**🍀.<br>
+My research interests mainly focus on **Interpretable-AI for Wireless Communications**☘️ and **Statistical Machine Learning**☘️.<br>
 During my undergraduate studies, I concentrated on Localization problems in wireless networks, with a particular emphasis on the Cooperative Localization.<br>
 
 I'm also a Bilibili influencer with 169k followers, where you can check my videos by searching the ID [*向前的赵*](https://space.bilibili.com/471218890?spm_id_from=333.1007.0.0)🎥<br>
@@ -18,14 +18,14 @@ I'm also a Bilibili influencer with 169k followers, where you can check my video
 
 📃 Selected Works
 ------
-<img src="images/moe.png" align="left" width="250" height="300"/>
+<img src="images/moe.png" align="left" width="300" height="360"/>
 - [**Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems**](https://arxiv.org/abs/2502.20183)<br>
 <span style="color: orange;">Submitted to *IEEE WCL* (second round revision) </span><br>
 **Zeyi Ren**, Qingfeng Lin, Jingreng Lei, Yang Li, Yik-Chung Wu
 <br clear="left"/>
 
 
-<img src="images/GCN.png" align="left" width="250" height="300"/>
+<img src="images/GCN.png" align="left" width="300" height="360"/>
 - [**Nonparametric Teaching for Graph Property Learners**](https://arxiv.org/abs/2505.14170)<br>
 <span style="color: red;">Accepted as *ICML 2025* spotlight poster (top 2.6%) </span><br>
 <span style="color: orange;">[project page](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/grant.html) | [code](https://github.com/chen2hang/GraNT_NonparametricTeaching) | [poster](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Poster.pdf) | [slide](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Slides.pdf)</span><br>
@@ -33,14 +33,14 @@ Chen Zhang\*, Weixin Bu\*, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
 <br clear="left"/>
 
 
-<img src="images/KAQ.png" align="left" width="250" height="300"/>
+<img src="images/KAQ.png" align="left" width="300" height="360"/>
 - [**Deep Unfolding with Kernel-based Quantization in MIMO Detection**](https://arxiv.org/abs/2505.12736)<br>
 <span style="color: red;">Accepted by *ICML ML4Wireless Workshop 2025* </span><br>
 **Zeyi Ren**, Jingreng Lei, Yichen Jin, Ermo Hua, Qingfeng Lin, Chen Zhang, Bowen Zhou, Yik-Chung Wu
 <br clear="left"/>
 
 
-<img src="images/TSMC.png" align="left" width="250" height="300"/>
+<img src="images/TSMC.png" align="left" width="300" height="360"/>
 - [**Generalizable Autonomous Driving System across Diverse Adverse Weather Conditions**](https://arxiv.org/abs/2409.14737)<br>
 <span style="color: orange;">Submitted to *IEEE TSMC* </span><br>
 Weibin Kou, Guangxu Zhu, Rongguang Ye, Qingfeng Lin, **Zeyi Ren**, Ming Tang, Yik-Chung Wu<br>
