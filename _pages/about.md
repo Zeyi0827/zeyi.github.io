@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me🎓"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,7 @@ redirect_from:
 My research interests mainly focus on **Interpretable-AI for Wireless Communications** and **Statistical Machine Learning**.<br>
 During my undergraduate studies, I concentrated on Localization problems in wireless networks, with a particular emphasis on the Cooperative Localization.<br>
 
-I'm also a Bilibili influencer with 169k followers, where you can check my videos by searching the ID [*向前的赵*](https://space.bilibili.com/471218890?spm_id_from=333.1007.0.0)<br>
+I'm also a Bilibili influencer with 169k followers, where you can check my videos by searching the ID [*向前的赵*](https://space.bilibili.com/471218890?spm_id_from=333.1007.0.0)🎥<br>
 
 <span style="color: red;">*I'm joining Huawei Shanghai as a AI research intern in August 2025*. </span>
 
@@ -48,7 +48,7 @@ Weibin Kou, Guangxu Zhu, Rongguang Ye, Qingfeng Lin, **Zeyi Ren**, Ming Tang, Yi
 
 Full list in [Google Scholar](https://scholar.google.com/citations?user=bdkdiw4AAAAJ&hl=en)
 
-📚 Education
+📖 Education
 ------
 <img src="images/HKU.png" align="left" width="80" height="100"/>
     **The University of Hong Kong**<br>
@@ -62,7 +62,7 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=bdkdiw4A
     September 2019 to June 2023
 <br clear="left"/>
 
-💻 Intern & Work Experience
+⌨️ Intern & Work Experience
 ------
 <img src="images/SRIBD.png" align="left" width="80" height="100"/>
     **Shenzhen Research Institute of Big Data**<br>
