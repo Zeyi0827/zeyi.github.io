@@ -68,6 +68,7 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=bdkdiw4A
     **Shenzhen Research Institute of Big Data**<br>
     August 2024 to February 2025<br>
     Position: visiting research intern<br>
+    Mentor: [Prof. Yang Li](https://liyangblade.github.io/)<br>
     Project:<br>
     ○ User allocation algorithm with mixed integer optimization<br>
     ○ Mixture of Expert (MoE)-augmented wireless networking<br>
@@ -77,6 +78,7 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=bdkdiw4A
     **Huawei Technologies, Shanghai**<br>
     August 2025 to November 2025<br>
     Position: AI research intern<br>
+    Mentor: [Dr. Qingfeng Lin](https://www.researchgate.net/profile/Qingfeng-Lin-3)<br>
     Project:<br>
     ○ LLM-embedded wireless systems<br>
     ○ Diffusion models and flow matching for channel extimation<br>
