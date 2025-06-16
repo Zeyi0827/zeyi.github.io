@@ -27,7 +27,7 @@ I'm also a Bilibili influencer with 169k followers, where you can check my video
 
 <img src="images/GCN.png" align="left" width="300" height="360"/>
 - [**Nonparametric Teaching for Graph Property Learners**](https://arxiv.org/abs/2505.14170)<br>
-<span style="color: red;">Accepted as *ICML 2025* spotlight poster (top 2.6%) </span><br>
+<span style="color: red;">Accepted as *ICML 2025* spotlight poster (top 2.6%)🏆 </span><br>
 <span style="color: orange;">[project page](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/grant.html) | [code](https://github.com/chen2hang/GraNT_NonparametricTeaching) | [poster](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Poster.pdf) | [slide](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Slides.pdf)</span><br>
 Chen Zhang\*, Weixin Bu\*, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
 <br clear="left"/>
@@ -81,7 +81,8 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=bdkdiw4A
     Mentor: [Dr. Qingfeng Lin](https://www.researchgate.net/profile/Qingfeng-Lin-3)<br>
     Project:<br>
     ○ LLM-embedded wireless systems<br>
-    ○ Diffusion models and flow matching for channel extimation<br>
+    ○ MoE system training<br>
+    ○ Diffusion models and flow matching for channel estimation<br>
 
 
 ⚽ Other Activities
