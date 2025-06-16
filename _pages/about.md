@@ -14,7 +14,7 @@ During my undergraduate studies, I concentrated on Localization problems in wire
 
 I'm also a Bilibili influencer with 169k followers, where you can check my videos by searching the ID [*向前的赵*](https://space.bilibili.com/471218890?spm_id_from=333.1007.0.0)🎥<br>
 
-<span style="color: red;">*I'm joining Huawei Shanghai as a AI research intern in August 2025*. </span>
+<span style="color: red;">*I'm joining Huawei Shanghai RAN Research Department as a AI research intern in August 2025*. </span>
 
 📃 Selected Works
 ------
