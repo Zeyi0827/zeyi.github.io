@@ -18,10 +18,10 @@ I'm also a Bilibili influencer with 169k followers, where you can check my video
 
 🔥 News
 ------
-**[2025.06]** Start serving as a reviewer of *IEEE Transactions on Systems, Man and Cybernetics (TSMC)*.<br>
-<span style="color: red;"> **[2025.06]** </span> One paper is accepted by *ICML ML4Wireless Workshop 2025*.<br>
-**[2025.06]** Start serving as a reviewer of *IEEE Globecom* and *IEEE ICCC*.<br>
-<span style="color: red;"> **[2025.05]** </span> One paper is accepted by *ICML 2025* and selected as spotlight🏆.<br>
+**[2025.06]** 🖊️ Start serving as a reviewer of *IEEE Transactions on Systems, Man and Cybernetics (TSMC)*.<br>
+<span style="color: red;"> **[2025.06]** </span> 🎉 One paper is accepted by *ICML ML4Wireless Workshop 2025*.<br>
+**[2025.06]** 🖊️ Start serving as a reviewer of *IEEE Globecom* and *IEEE ICCC*.<br>
+<span style="color: red;"> **[2025.05]** </span> 🎉 One paper is accepted by *ICML 2025* and selected as spotlight🏆.<br>
 
 📃 Selected Works
 ------
