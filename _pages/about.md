@@ -16,6 +16,13 @@ I'm also a Bilibili influencer with 169k followers, where you can check my video
 
 <span style="color: red;">*I'm joining Huawei Shanghai RAN Research Department as a AI research intern in August 2025*. </span>
 
+🔥 News
+------
+**[2025.06]** Start serving as a reviewer of IEEE Transactions on Systems, Man and Cybernetics (TSMC).<br>
+<span style="color: red;"> **[2025.06]** </span> One paper is accepted by ICML ML4Wireless Workshop 2025.<br>
+**[2025.06]** Start serving as a reviewer of IEEE Globecom and IEEE ICCC.<br>
+<span style="color: red;"> **[2025.05]** </span> One paper is accepted by ICML 2025 and selected as spotlight🏆.<br>
+
 📃 Selected Works
 ------
 <img src="images/moe.png" align="left" width="300" height="360"/>
