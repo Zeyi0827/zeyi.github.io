@@ -47,13 +47,6 @@ Chen Zhang\*, Weixin Bu\*, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
 <br clear="left"/>
 
 
-<img src="images/NF.png" align="left" width="300" height="360"/>
-- [**Distributed Activity Detection for Cell-Free Hybrid Near-Far Field Communications**](https://arxiv.org/abs/2506.14254)<br>
-<span style="color: orange;">Submitted to *IEEE Globecom* </span><br>
-Jingreng Lei, Yang Li, **Zeyi Ren**, Qingfeng Lin, Ziyue Wang, Ya-Feng Liu, Yik-Chung Wu
-<br clear="left"/>
-
-
 <img src="images/TSMC.png" align="left" width="300" height="360"/>
 - [**Generalizable Autonomous Driving System across Diverse Adverse Weather Conditions**](https://arxiv.org/abs/2409.14737)<br>
 <span style="color: orange;">Submitted to *IEEE TSMC* </span><br>
