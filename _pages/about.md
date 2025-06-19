@@ -18,7 +18,7 @@ I'm also a Bilibili influencer with 169k followers, where you can check my video
 
 🔥 News
 ------
-<span style="color: red;"> **[2025.06]** </span> 🎉 One paper is accepted by *IEEE WCL*.<br>
+<span style="color: red;"> **[2025.06]** </span> 🎉 One paper is accepted by *IEEE Wireless Communications Letters*.<br>
 **[2025.06]** 🖊️ Start serving as a reviewer of *IEEE Transactions on Systems, Man and Cybernetics*.<br>
 <span style="color: red;"> **[2025.06]** </span> 🎉 One paper is accepted by *ICML ML4Wireless Workshop 2025*.<br>
 **[2025.05]** 🖊️ Start serving as a reviewer of *IEEE Globecom* and *IEEE ICCC*.<br>
