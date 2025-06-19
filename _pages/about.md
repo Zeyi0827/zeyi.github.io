@@ -28,7 +28,7 @@ I'm also a Bilibili influencer with 169k followers, where you can check my video
 ------
 <img src="images/moe.png" align="left" width="300" height="360"/>
 - [**Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems**](https://arxiv.org/abs/2502.20183)<br>
-<span style="color: red;">Accepted by *IEEE WCL* (second round revision) </span><br>
+<span style="color: red;">Accepted by *IEEE WCL* </span><br>
 **Zeyi Ren**, Qingfeng Lin, Jingreng Lei, Yang Li, Yik-Chung Wu
 <br clear="left"/>
 
