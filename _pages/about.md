@@ -68,7 +68,7 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
 - <a href="https://arxiv.org/abs/2505.14170" style="color:#4fc3f7;text-decoration:none;">
     **Nonparametric Teaching for Graph Property Learners**
   </a><br>
-<span style="color: red;">Accepted in *ICML 2025* and selected as spotlight poster (top 2.6%)🏆 </span><br>
+<span style="color: red;">Accepted in *ICML 2025* as spotlight (top 2.6%)🏆 </span><br>
 <span style="color: orange;">[project page](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/grant.html) | [code](https://github.com/chen2hang/GraNT_NonparametricTeaching) | [poster](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Poster.pdf) | [slide](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Slides.pdf)</span><br>
 Chen Zhang\*, Weixin Bu\*, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
 <br clear="left"/>
