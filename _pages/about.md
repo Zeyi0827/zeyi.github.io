@@ -65,7 +65,9 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
 
 
 <img src="images/GCN.png" align="left" width="300" height="360"/>
-- [**Nonparametric Teaching for Graph Property Learners**](https://arxiv.org/abs/2505.14170)<br>
+- <a href="https://arxiv.org/abs/2505.14170" style="color:#4fc3f7;text-decoration:none;">
+    **Nonparametric Teaching for Graph Property Learners**
+  </a><br>
 <span style="color: red;">Accepted in *ICML 2025* and selected as spotlight poster (top 2.6%)🏆 </span><br>
 <span style="color: orange;">[project page](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/grant.html) | [code](https://github.com/chen2hang/GraNT_NonparametricTeaching) | [poster](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Poster.pdf) | [slide](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Slides.pdf)</span><br>
 Chen Zhang\*, Weixin Bu\*, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
@@ -73,19 +75,26 @@ Chen Zhang\*, Weixin Bu\*, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
 
 
 <img src="images/KAQ.png" align="left" width="300" height="360"/>
-- [**Deep Unfolding with Kernel-based Quantization in MIMO Detection**](https://arxiv.org/abs/2505.12736)<br>
+- <a href="https://arxiv.org/abs/2505.12736" style="color:#4fc3f7;text-decoration:none;">
+    **Deep Unfolding with Kernel-based Quantization in MIMO Detection**
+  </a><br>
 <span style="color: red;">Accepted in *ICML ML4Wireless Workshop 2025* </span><br>
 **Zeyi Ren**, Jingreng Lei, Yichen Jin, Ermo Hua, Qingfeng Lin, Chen Zhang, Bowen Zhou, Yik-Chung Wu
 <br clear="left"/>
 
 
 <img src="images/TSMC.png" align="left" width="300" height="360"/>
-- [**Generalizable Autonomous Driving System across Diverse Adverse Weather Conditions**](https://arxiv.org/abs/2409.14737)<br>
+- <a href="https://arxiv.org/abs/2409.14737" style="color:#4fc3f7;text-decoration:none;">
+    **Generalizable Autonomous Driving System across Diverse Adverse Weather Conditions**
+  </a><br>
 <span style="color: orange;">Submitted to *IEEE TSMC* </span><br>
 Weibin Kou, Guangxu Zhu, Rongguang Ye, Qingfeng Lin, **Zeyi Ren**, Ming Tang, Yik-Chung Wu<br>
 <br clear="left"/>
 
-Full list in [Google Scholar](https://scholar.google.com/citations?user=bdkdiw4AAAAJ&hl=en)
+Full list in 
+<a href="https://scholar.google.com/citations?user=bdkdiw4AAAAJ&hl=en" style="color:#4fc3f7;text-decoration:none;">
+    Google Scholar
+  </a>
 
 📖 Education
 ------
