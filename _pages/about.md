@@ -34,7 +34,7 @@ redirect_from:
   as Associate Professor in March 2025).
 </p>
 
-My research interests mainly focus on **Interpretable-AI for Wireless Communications**☘️ and **Statistical Machine Learning**☘️.<br>
+My research interests mainly focus on **Interpretable-AI for Wireless Communications**🌐 and **Model-based Deep Learning**📖.<br>
 During my undergraduate studies, I concentrated on Localization problems in wireless networks, with a particular emphasis on the Cooperative Localization.<br>
 
 I’m also a Bilibili influencer with 170 k followers, where you can check my videos by searching the ID
@@ -116,7 +116,9 @@ Full list in
     **Shenzhen Research Institute of Big Data**<br>
     August 2024 to February 2025<br>
     Position: visiting research intern<br>
-    Mentor: [Prof. Yang Li](https://liyangblade.github.io/)<br>
+    Mentor: <a href="https://liyangblade.github.io/" style="color:#4fc3f7;text-decoration:none;">
+    Prof. Yang Li
+  </a><br>
     Project:<br>
     ○ User allocation algorithm with mixed integer optimization<br>
     ○ Mixture of Expert (MoE)-augmented wireless networking<br>
@@ -126,7 +128,9 @@ Full list in
     **Huawei Technologies, Shanghai**<br>
     August 2025 to November 2025<br>
     Position: AI research intern<br>
-    Mentor: [Dr. Qingfeng Lin](https://www.researchgate.net/profile/Qingfeng-Lin-3)<br>
+    Mentor: <a href="https://www.researchgate.net/profile/Qingfeng-Lin-3" style="color:#4fc3f7;text-decoration:none;">
+    Dr. Qingfeng Lin
+  </a><br>
     Project:<br>
     ○ LLM-embedded wireless systems<br>
     ○ MoE system training<br>
@@ -135,4 +139,7 @@ Full list in
 
 ⚽ Other Activities
 ------
-*I like playing football at my spare time. I'm the captain of **HKU Postgraduate Student Association (PGSA)** football team. And I'm also a registered player of [Hong Kong Legal League (division 2)](https://legalleague.leaguerepublic.com/index.html) playing for **Dong Feng Express**🚀*
+*I like playing football at my spare time. I'm the captain of **HKU Postgraduate Student Association (PGSA)** football team. And I'm also a registered player of 
+<a href="https://legalleague.leaguerepublic.com/index.html" style="color:#A0522D;text-decoration:none;">
+    Hong Kong Legal League (division 2)
+  </a> playing for **Dong Feng Express**🚀*
