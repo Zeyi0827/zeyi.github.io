@@ -56,8 +56,9 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
 📃 Selected Works
 ------
 <img src="images/moe.png" align="left" width="300" height="360"/>
-- [**Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems**](https://arxiv.org/abs/2502.20183)<br>
-<span style="color: red;">Accepted by *IEEE WCL* </span><br>
+- <a href="https://arxiv.org/abs/2502.20183" style="color:#4fc3f7;text-decoration:none;">
+    **Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems**
+  </a><br>
 **Zeyi Ren**, Qingfeng Lin, Jingreng Lei, Yang Li, Yik-Chung Wu
 <br clear="left"/>
 
