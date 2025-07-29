@@ -6,9 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-👋😀<p>
-  Hi, I’m Zeyi Ren, a M.Phil. student at the
+<p>
+👋😀Hi, I’m Zeyi Ren, a M.Phil. student at the
   <a href="https://www.eee.hku.hk/" style="color:#4fc3f7;text-decoration:none;">
     Department of EEE, The University of Hong Kong (HKU)
   </a>,
