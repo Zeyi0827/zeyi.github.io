@@ -7,7 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-👋😀Hi, I’m Zeyi Ren, a M.Phil. student at the [department of EEE, The University of Hong Kong (HKU)](https://www.eee.hku.hk/), supervised by [Prof. Yik-Chung Wu](https://www.eee.hku.hk/~ycwu/). Before that, I got my B.Eng. degree in Electronics and Information Engineering from [Beijing Institute of Technology (BIT)](https://sie.bit.edu.cn/). I have also worked as a visiting research intern at [Shenzhen Research Institute of Big Data](https://www.sribd.cn/), collaborated with [Prof. Yang Li](https://liyangblade.github.io/) (Joined [Great Bay University](https://www.gbu.edu.cn/) as Associate Professor in March 2025).
+👋😀<p>
+  Hi, I’m Zeyi Ren, a M.Phil. student at the
+  <a href="https://www.eee.hku.hk/" style="color:#4fc3f7;text-decoration:none;">
+    Department of EEE, The University of Hong Kong (HKU)
+  </a>,
+  supervised by
+  <a href="https://www.eee.hku.hk/~ycwu/" style="color:#4fc3f7;text-decoration:none;">
+    Prof. Yik-Chung Wu
+  </a>.
+  Before that, I obtained my B.Eng. degree in Electronics and Information Engineering from
+  <a href="https://sie.bit.edu.cn/" style="color:#4fc3f7;text-decoration:none;">
+    Beijing Institute of Technology (BIT)
+  </a>.
+  I have also worked as a visiting research intern at
+  <a href="https://www.sribd.cn/" style="color:#4fc3f7;text-decoration:none;">
+    Shenzhen Research Institute of Big Data
+  </a>,
+  collaborating with
+  <a href="https://liyangblade.github.io/" style="color:#4fc3f7;text-decoration:none;">
+    Prof. Yang Li
+  </a>
+  (who joined
+  <a href="https://www.gbu.edu.cn/" style="color:#4fc3f7;text-decoration:none;">
+    Great Bay University
+  </a>
+  as Associate Professor in March 2025).
+</p>
 
 My research interests mainly focus on **Interpretable-AI for Wireless Communications**☘️ and **Statistical Machine Learning**☘️.<br>
 During my undergraduate studies, I concentrated on Localization problems in wireless networks, with a particular emphasis on the Cooperative Localization.<br>
