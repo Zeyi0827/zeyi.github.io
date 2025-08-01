@@ -57,7 +57,7 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
 📃 Selected Works
 ------
 <img src="images/moe.png" align="left" width="300" height="360"/>
-- <a href="https://arxiv.org/abs/2502.20183" style="color:#4fc3f7;text-decoration:none;">
+- <a href="https://arxiv.org/abs/2502.20183" style="color:#A0522D;text-decoration:none;">
     **Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems**
   </a><br>
 <span style="color: red;">Accepted in *IEEE Wireless Communications Letters* </span><br>
@@ -66,7 +66,7 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
 
 
 <img src="images/GCN.png" align="left" width="300" height="360"/>
-- <a href="https://arxiv.org/abs/2505.14170" style="color:#4fc3f7;text-decoration:none;">
+- <a href="https://arxiv.org/abs/2505.14170" style="color:#A0522D;text-decoration:none;">
     **Nonparametric Teaching for Graph Property Learners**
   </a><br>
 <span style="color: red;">Accepted in *ICML 2025* as spotlight (top 2.6%)🏆 </span><br>
@@ -76,7 +76,7 @@ Chen Zhang\*, Weixin Bu\*, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
 
 
 <img src="images/KAQ.png" align="left" width="300" height="360"/>
-- <a href="https://arxiv.org/abs/2505.12736" style="color:#4fc3f7;text-decoration:none;">
+- <a href="https://arxiv.org/abs/2505.12736" style="color:#A0522D;text-decoration:none;">
     **Deep Unfolding with Kernel-based Quantization in MIMO Detection**
   </a><br>
 <span style="color: red;">Accepted in *ICML ML4Wireless Workshop 2025* </span><br>
