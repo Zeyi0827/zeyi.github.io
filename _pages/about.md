@@ -66,7 +66,7 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
 
 
 <img src="images/GCN.png" align="left" width="300" height="360"/>
-- <a href="https://arxiv.org/abs/2505.14170" style="color:#A0522D;text-decoration:none;">
+- <a href="https://arxiv.org/abs/2505.14170" style="color:#90caf9;text-decoration:none;">
     **Nonparametric Teaching for Graph Property Learners**
   </a><br>
 <span style="color: red;">Accepted in *ICML 2025* as spotlight (top 2.6%)🏆 </span><br>
