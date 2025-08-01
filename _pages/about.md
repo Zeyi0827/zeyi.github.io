@@ -76,7 +76,7 @@ Chen Zhang\*, Weixin Bu\*, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
 
 
 <img src="images/KAQ.png" align="left" width="300" height="360"/>
-- <a href="https://arxiv.org/abs/2505.12736" style="color:#A0522D;text-decoration:none;">
+- <a href="https://arxiv.org/abs/2505.12736" style="color:#26a69a;text-decoration:none;">
     **Deep Unfolding with Kernel-based Quantization in MIMO Detection**
   </a><br>
 <span style="color: red;">Accepted in *ICML ML4Wireless Workshop 2025* </span><br>
@@ -86,7 +86,7 @@ Chen Zhang\*, Weixin Bu\*, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
 
 <img src="images/NF.png" align="left" width="300" height="360"/>
 - <a href="https://arxiv.org/abs/2506.14254" style="color:#4dd0e1;text-decoration:none;">
-    Distributed Activity Detection for Cell-Free Hybrid Near-Far Field Communications
+    **Distributed Activity Detection for Cell-Free Hybrid Near-Far Field Communications**
   </a><br>
 <span style="color: red;">Accepted in *IEEE Globecom* </span><br>
 Jingreng Lei, Yang Li, **Zeyi Ren**, Qingfeng Lin, Ziyue Wang, Ya-Feng Liu, Yik-Chung Wu
