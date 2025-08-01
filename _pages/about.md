@@ -85,8 +85,8 @@ Chen Zhang\*, Weixin Bu\*, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
 
 
 <img src="images/NF.png" align="left" width="300" height="360"/>
-- <a href="https://arxiv.org/abs/2506.14254" style="color:#4fc3f7;text-decoration:none;">
-    **Distributed Activity Detection for Cell-Free Hybrid Near-Far Field Communications**
+- <a href="https://arxiv.org/abs/2506.14254" style="color:#4dd0e1;text-decoration:none;">
+    Distributed Activity Detection for Cell-Free Hybrid Near-Far Field Communications
   </a><br>
 <span style="color: red;">Accepted in *IEEE Globecom* </span><br>
 Jingreng Lei, Yang Li, **Zeyi Ren**, Qingfeng Lin, Ziyue Wang, Ya-Feng Liu, Yik-Chung Wu
