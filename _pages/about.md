@@ -8,27 +8,27 @@ redirect_from:
 ---
 <p>
 👋😀Hi, I’m Zeyi Ren, a M.Phil. student at the
-  <a href="https://www.eee.hku.hk/" style="color:#4fc3f7;text-decoration:none;">
+  <a href="https://www.eee.hku.hk/" style="color:#00acc1;text-decoration:none;">
     Department of EEE, The University of Hong Kong (HKU)
   </a>,
   supervised by
-  <a href="https://www.eee.hku.hk/~ycwu/" style="color:#4fc3f7;text-decoration:none;">
+  <a href="https://www.eee.hku.hk/~ycwu/" style="color:#00acc1;text-decoration:none;">
     Prof. Yik-Chung Wu
   </a>.
   Before that, I obtained my B.Eng. degree in Electronics and Information Engineering from
-  <a href="https://sie.bit.edu.cn/" style="color:#4fc3f7;text-decoration:none;">
+  <a href="https://sie.bit.edu.cn/" style="color:#00acc1;text-decoration:none;">
     Beijing Institute of Technology (BIT)
   </a>.
   I have also worked as a visiting research intern at
-  <a href="https://www.sribd.cn/" style="color:#4fc3f7;text-decoration:none;">
+  <a href="https://www.sribd.cn/" style="color:#00acc1;text-decoration:none;">
     Shenzhen Research Institute of Big Data
   </a>,
   collaborating with
-  <a href="https://liyangblade.github.io/" style="color:#4fc3f7;text-decoration:none;">
+  <a href="https://liyangblade.github.io/" style="color:#00acc1;text-decoration:none;">
     Prof. Yang Li
   </a>
   (who joined
-  <a href="https://www.gbu.edu.cn/" style="color:#4fc3f7;text-decoration:none;">
+  <a href="https://www.gbu.edu.cn/" style="color:#00acc1;text-decoration:none;">
     Great Bay University
   </a>
   as Associate Professor in March 2025).
@@ -57,7 +57,7 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
 📃 Selected Works
 ------
 <img src="images/moe.png" align="left" width="300" height="360"/>
-- <a href="https://arxiv.org/abs/2502.20183" style="color:#A0522D;text-decoration:none;">
+- <a href="https://arxiv.org/abs/2502.20183" style="color:#90caf9;text-decoration:none;">
     **Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems**
   </a><br>
 <span style="color: red;">Accepted in *IEEE Wireless Communications Letters* </span><br>
@@ -76,7 +76,7 @@ Chen Zhang\*, Weixin Bu\*, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
 
 
 <img src="images/KAQ.png" align="left" width="300" height="360"/>
-- <a href="https://arxiv.org/abs/2505.12736" style="color:#26a69a;text-decoration:none;">
+- <a href="https://arxiv.org/abs/2505.12736" style="color:#90caf9;text-decoration:none;">
     **Deep Unfolding with Kernel-based Quantization in MIMO Detection**
   </a><br>
 <span style="color: red;">Accepted in *ICML ML4Wireless Workshop 2025* </span><br>
@@ -85,7 +85,7 @@ Chen Zhang\*, Weixin Bu\*, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
 
 
 <img src="images/NF.png" align="left" width="300" height="360"/>
-- <a href="https://arxiv.org/abs/2506.14254" style="color:#4dd0e1;text-decoration:none;">
+- <a href="https://arxiv.org/abs/2506.14254" style="color:#90caf9;text-decoration:none;">
     **Distributed Activity Detection for Cell-Free Hybrid Near-Far Field Communications**
   </a><br>
 <span style="color: red;">Accepted in *IEEE Globecom* </span><br>
@@ -94,7 +94,7 @@ Jingreng Lei, Yang Li, **Zeyi Ren**, Qingfeng Lin, Ziyue Wang, Ya-Feng Liu, Yik-
 
 
 <img src="images/TSMC.png" align="left" width="300" height="360"/>
-- <a href="https://arxiv.org/abs/2409.14737" style="color:#4fc3f7;text-decoration:none;">
+- <a href="https://arxiv.org/abs/2409.14737" style="color:#90caf9;text-decoration:none;">
     **Generalizable Autonomous Driving System across Diverse Adverse Weather Conditions**
   </a><br>
 <span style="color: orange;">Submitted to *IEEE TSMC* </span><br>
@@ -102,7 +102,7 @@ Weibin Kou, Guangxu Zhu, Rongguang Ye, Qingfeng Lin, **Zeyi Ren**, Ming Tang, Yi
 <br clear="left"/>
 
 Full list in 
-<a href="https://scholar.google.com/citations?user=bdkdiw4AAAAJ&hl=en" style="color:#4fc3f7;text-decoration:none;">
+<a href="https://scholar.google.com/citations?user=bdkdiw4AAAAJ&hl=en" style="color:#90caf9;text-decoration:none;">
     Google Scholar
   </a>
 
