@@ -42,7 +42,7 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
     *向前的赵*
   </a>🎥<br>
 
-<span style="color: red;">*I'm joining Huawei Shanghai RAN Research Department as a AI research intern in August 2025*. </span>
+<span style="color: red;">*I'm now with Huawei Shanghai RAN Research Department as a AI research intern started from August 2025*. </span>
 
 🔥 News
 ------
