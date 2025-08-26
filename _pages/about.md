@@ -141,7 +141,7 @@ Full list in
     Mentor: <a href="https://www.researchgate.net/profile/Qingfeng-Lin-3" style="color:#4fc3f7;text-decoration:none;">
     Dr. Qingfeng Lin
   </a>, 
-    <a href="https://www.linkedin.cn/incareer/in/yan-sun-14b219a6" style="color:#4fc3f7;text-decoration:none;">
+    <a href="https://ieeexplore.ieee.org/author/37089854890" style="color:#4fc3f7;text-decoration:none;">
     Dr. Yan Sun
   </a><br>
     Project:<br>
