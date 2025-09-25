@@ -116,19 +116,19 @@ Full list in
 
 📖 Education
 ------
-<img src="images/THU2026.png" align="left" width="80" height="100"/>
+<img src="images/THU2026.png" align="left" width="100" height="125"/>
     **Tsinghua University**<br>
     **Ph.D. in Information and Communication Engineering**<br>
     Starting from September 2026
 <br clear="left"/>
 
-<img src="images/HKU.png" align="left" width="80" height="100"/>
+<img src="images/HKU.png" align="left" width="100" height="125"/>
     **The University of Hong Kong**<br>
     **M.Phil. in Wireless Communications and Machine Learning**<br>
     September 2023 to present
 <br clear="left"/>
 
-<img src="images/BIT.png" align="left" width="80" height="100"/>
+<img src="images/BIT.png" align="left" width="100" height="125"/>
     **Beijing Institute of Technology**<br>
     **B.Eng. in Electronics and Information Engineering**<br>
     September 2019 to June 2023
