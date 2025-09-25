@@ -116,7 +116,7 @@ Full list in
 
 📖 Education
 ------
-<img src="images/THU.png" align="left" width="80" height="100"/>
+<img src="images/THU2026.png" align="left" width="80" height="100"/>
     **Tsinghua University**<br>
     **Ph.D. in Information and Communication Engineering**<br>
     Starting from September 2026
