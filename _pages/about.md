@@ -27,11 +27,19 @@ redirect_from:
   <a href="https://liyangblade.github.io/" style="color:#00acc1;text-decoration:none;">
     Prof. Yang Li
   </a>
-  (who joined
+  (who has joined
   <a href="https://www.gbu.edu.cn/" style="color:#00acc1;text-decoration:none;">
     Great Bay University
   </a>
-  as Associate Professor in March 2025).
+  as Associate Professor in March 2025). After the MPhil graduation, I will join 
+  <a href="https://network.ee.tsinghua.edu.cn/niulab/" style="color:purple;text-decoration:none;">
+    Niulab
+  </a>
+  at the Department of EE,
+  <a href="https://www.ee.tsinghua.edu.cn/" style="color:purple;text-decoration:none;">
+    Tsinghua University (THU)
+  </a>
+  as a PhD student.
 </p>
 
 My research interests mainly focus on **Interpretable-AI for Wireless Communications**🌐 and **Model-based Deep Learning**📖.<br>
