@@ -116,6 +116,12 @@ Full list in
 
 📖 Education
 ------
+<img src="images/THU.webp" align="left" width="80" height="100"/>
+    **Tsinghua University**<br>
+    **Ph.D. in Information and Communication Engineering**<br>
+    Starting from September 2026
+<br clear="left"/>
+
 <img src="images/HKU.png" align="left" width="80" height="100"/>
     **The University of Hong Kong**<br>
     **M.Phil. in Wireless Communications and Machine Learning**<br>
