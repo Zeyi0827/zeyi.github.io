@@ -54,13 +54,14 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
 
 🔥 News
 ------
-<span style="color: red;"> **[2025.08]** </span> 🎉 Two papers are accepted by *IEEE Global Communications Conference*.<br>
+**[2025.09]** 🖊️ Start serving as a reviewer of *IEEE Open Journal of Communications Society*.<br>
+<span style="color: red;"> **[2025.08]** </span> 🎉 Two papers are accepted in *IEEE Global Communications Conference*.<br>
 **[2025.07]** 🖊️ Start serving as a reviewer of *IEEE Wireless Communications Letters*.<br>
-<span style="color: red;"> **[2025.06]** </span> 🎉 One paper is accepted by *IEEE Wireless Communications Letters*.<br>
+<span style="color: red;"> **[2025.06]** </span> 🎉 One paper is accepted in *IEEE Wireless Communications Letters*.<br>
 **[2025.06]** 🖊️ Start serving as a reviewer of *IEEE Transactions on Systems, Man and Cybernetics*.<br>
-<span style="color: red;"> **[2025.06]** </span> 🎉 One paper is accepted by *ICML ML4Wireless Workshop 2025*.<br>
+<span style="color: red;"> **[2025.06]** </span> 🎉 One paper is accepted in *ICML ML4Wireless Workshop 2025*.<br>
 **[2025.05]** 🖊️ Start serving as a reviewer of *IEEE Globecom* and *IEEE ICCC*.<br>
-<span style="color: red;"> **[2025.05]** </span> 🎉 One paper is accepted by *ICML 2025* and selected as spotlight🏆.<br>
+<span style="color: red;"> **[2025.05]** </span> 🎉 One paper is accepted in *ICML 2025* and selected as spotlight🏆.<br>
 
 📃 Selected Works
 ------
