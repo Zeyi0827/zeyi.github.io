@@ -73,7 +73,7 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
 <a href="https://arxiv.org/abs/2502.20183" style="color:#64b5f6;text-decoration:none;">
     \[paper\]
   </a><br>
-**Zeyi Ren**, Qingfeng Lin, Jingreng Lei, Yang Li, Yik-Chung Wu
+<span style="font-size: 0.9em;">**Zeyi Ren**, Qingfeng Lin, Jingreng Lei, Yang Li, Yik-Chung Wu</span>
 <br clear="left"/>
 
 
