@@ -129,10 +129,10 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
 - <a href="https://arxiv.org/abs/2409.14737" style="color:black;text-decoration:none;">
     **Generalizable Autonomous Driving System across Diverse Adverse Weather Conditions**
   </a><br>
+<span style="color: orange;">Submitted to *IEEE TSMC* </span><br>
 <a href="https://arxiv.org/abs/2409.14737" style="color:#64b5f6;text-decoration:none;">
     \[paper\]
   </a><br>
-<span style="color: orange;">Submitted to *IEEE TSMC* </span><br>
 <span style="font-size: 0.9em;">Weibin Kou, Guangxu Zhu, Rongguang Ye, Qingfeng Lin, **Zeyi Ren**, Ming Tang, Yik-Chung Wu</span><br>
 <br clear="left"/>
 
