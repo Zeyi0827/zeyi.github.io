@@ -81,7 +81,7 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
 - <a href="https://arxiv.org/abs/2505.14170" style="color:black;text-decoration:none;">
     **Nonparametric Teaching for Graph Property Learners**
   </a><br>
-<span style="color: black;">*ICML 2025* spotlight (top 2.6%)🏆 </span><br>
+*ICML 2025* <span style="color: red;">spotlight (top 2.6%)</span>🏆 <br>
 <a href="https://arxiv.org/abs/2505.14170" style="color:#64b5f6;text-decoration:none;">
     \[paper\]
   </a>
