@@ -97,7 +97,7 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
 <a href="https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Slides.pdf" style="color:#64b5f6;text-decoration:none;">
     \[slides\]
   </a><br>
-Chen Zhang\*, Weixin Bu\*, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
+<span style="font-size: 0.9em;">Chen Zhang\*, Weixin Bu\*, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong</span>
 <br clear="left"/>
 
 
@@ -109,7 +109,7 @@ Chen Zhang\*, Weixin Bu\*, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
 <a href="https://arxiv.org/abs/2505.12736" style="color:#64b5f6;text-decoration:none;">
     \[paper\]
   </a><br>
-**Zeyi Ren**, Jingreng Lei, Yichen Jin, Ermo Hua, Qingfeng Lin, Chen Zhang, Bowen Zhou, Yik-Chung Wu
+<span style="font-size: 0.9em;">**Zeyi Ren**, Jingreng Lei, Yichen Jin, Ermo Hua, Qingfeng Lin, Chen Zhang, Bowen Zhou, Yik-Chung Wu</span>
 <br clear="left"/>
 
 
@@ -121,7 +121,7 @@ Chen Zhang\*, Weixin Bu\*, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
 <a href="https://arxiv.org/abs/2506.14254" style="color:#64b5f6;text-decoration:none;">
     \[paper\]
   </a><br>
-Jingreng Lei, Yang Li, **Zeyi Ren**, Qingfeng Lin, Ziyue Wang, Ya-Feng Liu, Yik-Chung Wu
+<span style="font-size: 0.9em;">Jingreng Lei, Yang Li, **Zeyi Ren**, Qingfeng Lin, Ziyue Wang, Ya-Feng Liu, Yik-Chung Wu</span>
 <br clear="left"/>
 
 
@@ -133,7 +133,7 @@ Jingreng Lei, Yang Li, **Zeyi Ren**, Qingfeng Lin, Ziyue Wang, Ya-Feng Liu, Yik-
     \[paper\]
   </a><br>
 <span style="color: orange;">Submitted to *IEEE TSMC* </span><br>
-Weibin Kou, Guangxu Zhu, Rongguang Ye, Qingfeng Lin, **Zeyi Ren**, Ming Tang, Yik-Chung Wu<br>
+<span style="font-size: 0.9em;">Weibin Kou, Guangxu Zhu, Rongguang Ye, Qingfeng Lin, **Zeyi Ren**, Ming Tang, Yik-Chung Wu</span><br>
 <br clear="left"/>
 
 Full list in 
