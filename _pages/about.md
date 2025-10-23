@@ -78,7 +78,7 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
 
 
 <img src="images/GCN.png" align="left" width="300" height="360"/>
-- <a href="https://arxiv.org/abs/2505.14170" style="color:#64b5f6;text-decoration:none;">
+- <a href="https://arxiv.org/abs/2505.14170" style="color:black;text-decoration:none;">
     **Nonparametric Teaching for Graph Property Learners**
   </a><br>
 <span style="color: black;">*ICML 2025* spotlight (top 2.6%)🏆 </span><br>
@@ -102,26 +102,35 @@ Chen Zhang\*, Weixin Bu\*, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
 
 
 <img src="images/KAQ.png" align="left" width="300" height="360"/>
-- <a href="https://arxiv.org/abs/2505.12736" style="color:#64b5f6;text-decoration:none;">
+- <a href="https://arxiv.org/abs/2505.12736" style="color:black;text-decoration:none;">
     **Deep Unfolding with Kernel-based Quantization in MIMO Detection**
   </a><br>
-<span style="color: red;">Accepted in *ICML ML4Wireless Workshop 2025* </span><br>
+<span style="color: black;">*ICML ML4Wireless Workshop 2025* </span><br>
+<a href="https://arxiv.org/abs/2505.12736" style="color:#64b5f6;text-decoration:none;">
+    \[paper\]
+  </a><br>
 **Zeyi Ren**, Jingreng Lei, Yichen Jin, Ermo Hua, Qingfeng Lin, Chen Zhang, Bowen Zhou, Yik-Chung Wu
 <br clear="left"/>
 
 
 <img src="images/NF.png" align="left" width="300" height="360"/>
-- <a href="https://arxiv.org/abs/2506.14254" style="color:#64b5f6;text-decoration:none;">
+- <a href="https://arxiv.org/abs/2506.14254" style="color:black;text-decoration:none;">
     **Distributed Activity Detection for Cell-Free Hybrid Near-Far Field Communications**
   </a><br>
-<span style="color: red;">Accepted in *IEEE Globecom* </span><br>
+<span style="color: black;">*IEEE Globecom* </span><br>
+<a href="https://arxiv.org/abs/2506.14254" style="color:#64b5f6;text-decoration:none;">
+    \[paper\]
+  </a><br>
 Jingreng Lei, Yang Li, **Zeyi Ren**, Qingfeng Lin, Ziyue Wang, Ya-Feng Liu, Yik-Chung Wu
 <br clear="left"/>
 
 
 <img src="images/TSMC.png" align="left" width="300" height="360"/>
-- <a href="https://arxiv.org/abs/2409.14737" style="color:#64b5f6;text-decoration:none;">
+- <a href="https://arxiv.org/abs/2409.14737" style="color:black;text-decoration:none;">
     **Generalizable Autonomous Driving System across Diverse Adverse Weather Conditions**
+  </a><br>
+<a href="https://arxiv.org/abs/2409.14737" style="color:#64b5f6;text-decoration:none;">
+    \[paper\]
   </a><br>
 <span style="color: orange;">Submitted to *IEEE TSMC* </span><br>
 Weibin Kou, Guangxu Zhu, Rongguang Ye, Qingfeng Lin, **Zeyi Ren**, Ming Tang, Yik-Chung Wu<br>
