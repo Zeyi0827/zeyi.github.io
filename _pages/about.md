@@ -69,10 +69,10 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
 - <a href="https://arxiv.org/abs/2502.20183" style="color:black;text-decoration:none;">
     **Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems**
   </a><br>
+<span style="color: black;">*IEEE Wireless Communications Letters* </span><br>
 <a href="https://arxiv.org/abs/2502.20183" style="color:#64b5f6;text-decoration:none;">
     \[paper\]
   </a><br>
-<span style="color: black;">*IEEE Wireless Communications Letters* </span><br>
 **Zeyi Ren**, Qingfeng Lin, Jingreng Lei, Yang Li, Yik-Chung Wu
 <br clear="left"/>
 
@@ -81,8 +81,22 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
 - <a href="https://arxiv.org/abs/2505.14170" style="color:#64b5f6;text-decoration:none;">
     **Nonparametric Teaching for Graph Property Learners**
   </a><br>
-<span style="color: red;">*ICML 2025* spotlight (top 2.6%)🏆 </span><br>
-<span style="color: orange;">\[project page\](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/grant.html) | \[code\](https://github.com/chen2hang/GraNT_NonparametricTeaching) | \[poster\](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Poster.pdf) | \[slide\](https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Slides.pdf)</span><br>
+<span style="color: black;">*ICML 2025* spotlight (top 2.6%)🏆 </span><br>
+<a href="https://arxiv.org/abs/2505.14170" style="color:#64b5f6;text-decoration:none;">
+    \[paper\]
+  </a>
+<a href="https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/grant.html" style="color:#64b5f6;text-decoration:none;">
+    \[project page\]
+  </a>
+<a href="https://github.com/chen2hang/GraNT_NonparametricTeaching" style="color:#64b5f6;text-decoration:none;">
+    \[code\]
+  </a>
+<a href="https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Poster.pdf" style="color:#64b5f6;text-decoration:none;">
+    \[poster\]
+  </a>
+<a href="https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/ICML_2025_Slides.pdf" style="color:#64b5f6;text-decoration:none;">
+    \[slides\]
+  </a><br>
 Chen Zhang\*, Weixin Bu\*, **Zeyi Ren**, Zhengwu Liu, Yik-Chung Wu, Ngai Wong
 <br clear="left"/>
 
