@@ -70,7 +70,7 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
     **Mixture of Experts-augmented Deep Unfolding for Activity Detection in IRS-aided Systems**
   </a><br>
 <span style="color: black;">*IEEE Wireless Communications Letters* </span><br>
-<a href="https://arxiv.org/abs/2502.20183" style="color:#64b5f6;text-decoration:none;">
+<a href="https://ieeexplore.ieee.org/document/11049000" style="color:#64b5f6;text-decoration:none;">
     \[paper\]
   </a><br>
 <span style="font-size: 0.9em;">**Zeyi Ren**, Qingfeng Lin, Jingreng Lei, Yang Li, Yik-Chung Wu</span>
