@@ -88,7 +88,7 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
     **Nonparametric Teaching for Graph Property Learners**
   </a><br>
 *ICML 2025* <span style="color: red;">spotlight (top 2.6%)</span>🏆 <br>
-<a href="https://arxiv.org/abs/2505.14170" style="color:#64b5f6;text-decoration:none;">
+<a href="https://openreview.net/pdf?id=wbvshlfyB0" style="color:#64b5f6;text-decoration:none;">
     \[paper\]
   </a>
 <a href="https://chen2hang.github.io/_publications/nonparametric_teaching_for_graph_proerty_learners/grant.html" style="color:#64b5f6;text-decoration:none;">
@@ -112,7 +112,7 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
     **Deep Unfolding with Kernel-based Quantization in MIMO Detection**
   </a><br>
 <span style="color: black;">*ICML ML4Wireless Workshop 2025* </span><br>
-<a href="https://arxiv.org/abs/2505.12736" style="color:#64b5f6;text-decoration:none;">
+<a href="https://openreview.net/pdf?id=5rDBJBaSoe" style="color:#64b5f6;text-decoration:none;">
     \[paper\]
   </a><br>
 <span style="font-size: 0.9em;">**Zeyi Ren**, Jingreng Lei, Yichen Jin, Ermo Hua, Qingfeng Lin, Chen Zhang, Bowen Zhou, Yik-Chung Wu</span>
