@@ -39,7 +39,13 @@ redirect_from:
   <a href="https://www.ee.tsinghua.edu.cn/" style="color:purple;text-decoration:none;">
     Tsinghua University (THU)
   </a>
-  as a PhD student.
+  as a PhD student, under the supervision of 
+  <a href="https://web.ee.tsinghua.edu.cn/niuzhisheng/zh_CN/index.htm" style="color:purple;text-decoration:none;">
+    Prof. Zhisheng Niu
+  </a> and 
+  <a href="https://web.ee.tsinghua.edu.cn/zhousheng/zh_CN/index.htm" style="color:purple;text-decoration:none;">
+    Prof. Sheng Zhou
+  </a>  
 </p>
 
 My research interests mainly focus on **Interpretable-AI for Wireless Communications**🌐 and **Model-based Deep Learning**📖.<br>
