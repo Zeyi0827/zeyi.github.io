@@ -124,7 +124,7 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
     **Distributed Activity Detection for Cell-Free Hybrid Near-Far Field Communications**
   </a><br>
 <span style="color: black;">*IEEE Globecom* </span><br>
-<a href="https://arxiv.org/abs/2506.14254" style="color:#64b5f6;text-decoration:none;">
+<a href="https://arxiv.org/pdf/2506.14254" style="color:#64b5f6;text-decoration:none;">
     \[paper\]
   </a><br>
 <span style="font-size: 0.9em;">Jingreng Lei, Yang Li, **Zeyi Ren**, Qingfeng Lin, Ziyue Wang, Ya-Feng Liu, Yik-Chung Wu</span>
@@ -136,7 +136,7 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
     **Generalizable Autonomous Driving System across Diverse Adverse Weather Conditions**
   </a><br>
 <span style="color: orange;">Submitted to *IEEE TSMC* </span><br>
-<a href="https://arxiv.org/abs/2409.14737" style="color:#64b5f6;text-decoration:none;">
+<a href="https://arxiv.org/pdf/2409.14737" style="color:#64b5f6;text-decoration:none;">
     \[paper\]
   </a><br>
 <span style="font-size: 0.9em;">Weibin Kou, Guangxu Zhu, Rongguang Ye, Qingfeng Lin, **Zeyi Ren**, Ming Tang, Yik-Chung Wu</span><br>
