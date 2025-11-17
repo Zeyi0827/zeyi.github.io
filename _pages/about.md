@@ -19,7 +19,7 @@ redirect_from:
   <a href="https://sie.bit.edu.cn/" style="color:#00acc1;text-decoration:none;">
     Beijing Institute of Technology (BIT)
   </a>.
-  I have also worked as a visiting research intern at
+  I have worked as a visiting research intern at
   <a href="https://www.sribd.cn/" style="color:#00acc1;text-decoration:none;">
     Shenzhen Research Institute of Big Data
   </a>,
@@ -31,7 +31,7 @@ redirect_from:
   <a href="https://www.gbu.edu.cn/" style="color:#00acc1;text-decoration:none;">
     Great Bay University
   </a>
-  as Associate Professor in March 2025). After the MPhil graduation, I will join 
+  as Associate Professor in March 2025). I have also worked as a research intern at <span style="color: red;">Huawei Shanghai RAN Research Department</span>, focused on AI/ML in RAN. After the MPhil graduation, I will join 
   <a href="https://network.ee.tsinghua.edu.cn/niulab/" style="color:purple;text-decoration:none;">
     Niulab
   </a>
