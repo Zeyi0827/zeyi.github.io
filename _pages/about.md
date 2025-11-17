@@ -56,7 +56,6 @@ I’m also a Bilibili influencer with 170 k followers, where you can check my vi
     *向前的赵*
   </a>🎥<br>
 
-<span style="color: red;">*I'm now with Huawei Shanghai RAN Research Department as a AI research intern started from August 2025*. </span>
 
 🔥 News
 ------
@@ -192,14 +191,14 @@ Full list in
     Dr. Yan Sun
   </a><br>
     Project:<br>
-    ○ LLM-embedded wireless systems<br>
-    ○ MoE system training<br>
+    ○ AI/ML in RAN<br>
+    ○ DMRS-less end-to-end transceiver design<br>
     ○ Diffusion models and flow matching for channel estimation<br>
 
 
 ⚽ Other Activities
 ------
-*I like playing football at my spare time. I'm the captain of **HKU Postgraduate Student Association (PGSA)** football team. And I'm also a registered player of 
+*I like playing football at my spare time. I was the captain of **HKU Postgraduate Student Association (PGSA)** football team. And I was also a registered player of 
 <a href="https://legalleague.leaguerepublic.com/index.html" style="color:#A0522D;text-decoration:none;">
     Hong Kong Legal League (division 2)
   </a> playing for **Dong Feng Express**🚀*
