@@ -51,7 +51,7 @@ redirect_from:
 My research interests mainly focus on **Interpretable-AI for Wireless Communications**🌐 and **Model-based Deep Learning**📖.<br>
 During my undergraduate studies, I concentrated on Localization problems in wireless networks, with a particular emphasis on the Cooperative Localization.<br>
 
-I’m also a Bilibili influencer with 170 k followers, where you can check my videos by searching the ID
+I’m also a Bilibili influencer with 185 k followers, where you can check my videos by searching the ID
   <a href="https://space.bilibili.com/471218890?spm_id_from=333.1007.0.0" style="color:pink;text-decoration:none;">
     *向前的赵*
   </a>🎥<br>
