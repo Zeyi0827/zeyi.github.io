@@ -82,6 +82,17 @@ I’m also a Bilibili influencer with 185 k followers, where you can check my vi
 <br clear="left"/>
 
 
+<img src="images/RAL.png" align="left" width="300" height="360"/>
+- <a href="https://arxiv.org/abs/2512.00375" style="color:black;text-decoration:none;">
+    **DPNet: Doppler LiDAR Motion Planning for Highly-Dynamic Environments**
+  </a><br>
+<span style="color: black;">Submitted to *IEEE Robotics and Automation Letters* </span><br>
+<a href="https://arxiv.org/pdf/2512.00375" style="color:#64b5f6;text-decoration:none;">
+    \[paper\]
+  </a><br>
+<span style="font-size: 0.9em;">Wei Zuo, **Zeyi Ren**, Chengyang Li, Yikun Wang, Mingle Zhao, Shuai Wang, Wei Sui, Fei Gao, Yik-Chung Wu, Chengzhong Xu</span>
+<br clear="left"/>
+
 <img src="images/GCN.png" align="left" width="300" height="360"/>
 - <a href="https://arxiv.org/abs/2505.14170" style="color:black;text-decoration:none;">
     **Nonparametric Teaching for Graph Property Learners**
@@ -134,7 +145,7 @@ I’m also a Bilibili influencer with 185 k followers, where you can check my vi
 - <a href="https://arxiv.org/abs/2409.14737" style="color:black;text-decoration:none;">
     **Generalizable Autonomous Driving System across Diverse Adverse Weather Conditions**
   </a><br>
-<span style="color: orange;">Submitted to *IEEE TSMC* </span><br>
+<span style="color: black;">Submitted to *IEEE TSMC* </span><br>
 <a href="https://arxiv.org/pdf/2409.14737" style="color:#64b5f6;text-decoration:none;">
     \[paper\]
   </a><br>
