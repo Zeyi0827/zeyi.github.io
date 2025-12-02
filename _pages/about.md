@@ -93,7 +93,7 @@ I’m also a Bilibili influencer with 185 k followers, where you can check my vi
 <span style="font-size: 0.9em;">Wei Zuo, **Zeyi Ren**, Chengyang Li, Yikun Wang, Mingle Zhao, Shuai Wang, Wei Sui, Fei Gao, Yik-Chung Wu, Chengzhong Xu</span>
 <br clear="left"/>
 
-<img src="images/GCN.png" align="left" width="300" height="360"/>
+<img src="images/ICML.png" align="left" width="300" height="360"/>
 - <a href="https://arxiv.org/abs/2505.14170" style="color:black;text-decoration:none;">
     **Nonparametric Teaching for Graph Property Learners**
   </a><br>
