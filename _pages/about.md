@@ -86,7 +86,7 @@ I’m also a Bilibili influencer with 185 k followers, where you can check my vi
 - <a href="https://arxiv.org/abs/2512.00375" style="color:black;text-decoration:none;">
     **DPNet: Doppler LiDAR Motion Planning for Highly-Dynamic Environments**
   </a><br>
-<span style="color: black;">Submitted to *IEEE Robotics and Automation Letters* </span><br>
+<span style="color: black;">*Preprint* </span><br>
 <a href="https://arxiv.org/pdf/2512.00375" style="color:#64b5f6;text-decoration:none;">
     \[paper\]
   </a><br>
