@@ -48,7 +48,7 @@ redirect_from:
   </a>  
 </p>
 
-My research interests mainly focus on **Interpretable-AI for Wireless Communications**🌐 and **Model-based Deep Learning**📖.<br>
+My research interests mainly focus on **Interpretable-AI for Wireless Communications**🌐 , **Model-based Deep Learning**📖 and **Intelligent Unmanned Systems**🏙️.<br>
 During my undergraduate studies, I concentrated on Localization problems in wireless networks, with a particular emphasis on the Cooperative Localization.<br>
 
 I’m also a Bilibili influencer with 185 k followers, where you can check my videos by searching the ID
