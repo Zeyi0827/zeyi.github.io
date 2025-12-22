@@ -89,6 +89,9 @@ I’m also a Bilibili influencer with 185 k followers, where you can check my vi
 <span style="color: black;">*Preprint* </span><br>
 <a href="https://arxiv.org/pdf/2512.00375" style="color:#64b5f6;text-decoration:none;">
     \[paper\]
+  </a>
+<a href="https://www.youtube.com/watch?v=0-fzaFXYKvg" style="color:#64b5f6;text-decoration:none;">
+    \[video\]
   </a><br>
 <span style="font-size: 0.9em;">Wei Zuo, **Zeyi Ren**, Chengyang Li, Yikun Wang, Mingle Zhao, Shuai Wang, Wei Sui, Fei Gao, Yik-Chung Wu, Chengzhong Xu</span>
 <br clear="left"/>
