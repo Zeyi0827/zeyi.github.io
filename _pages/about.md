@@ -59,6 +59,7 @@ I’m also a Bilibili influencer with 185 k followers, where you can check my vi
 
 🔥 News
 ------
+<span style="color: red;"> **[2026.01]** </span> 🎉 One paper is accepted in *IEEE International Conference on Communications*.<br>
 <span style="color: red;"> **[2026.01]** </span> 🎉 One paper is accepted in *IEEE ICASSP*.<br>
 **[2025.09]** 🖊️ Start serving as a reviewer of *IEEE Open Journal of Communications Society*.<br>
 <span style="color: red;"> **[2025.08]** </span> 🎉 Two papers are accepted in *IEEE Global Communications Conference*.<br>
