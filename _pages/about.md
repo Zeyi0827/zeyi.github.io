@@ -139,11 +139,22 @@ I’m also a Bilibili influencer with 200 k followers, where you can check my vi
 - <a href="https://arxiv.org/abs/2506.14254" style="color:black;text-decoration:none;">
     **Distributed Activity Detection for Cell-Free Hybrid Near-Far Field Communications**
   </a><br>
-<span style="color: black;">*IEEE Globecom* </span><br>
+<span style="color: black;">*IEEE Globecom 2025* </span><br>
 <a href="https://arxiv.org/pdf/2506.14254" style="color:#64b5f6;text-decoration:none;">
     \[paper\]
   </a><br>
 <span style="font-size: 0.9em;">Jingreng Lei, Yang Li, **Zeyi Ren**, Qingfeng Lin, Ziyue Wang, Ya-Feng Liu, Yik-Chung Wu</span>
+<br clear="left"/>
+
+<img src="images/HPTune.png" align="left" width="300" height="360"/>
+- <a href="https://arxiv.org/abs/2601.21346" style="color:black;text-decoration:none;">
+    **HPTune: Hierarchical Proactive Tuning for Collision-Free Model Predictive Control**
+  </a><br>
+<span style="color: black;">*IEEE ICASSP 2026* </span><br>
+<a href="https://arxiv.org/pdf/2601.21346" style="color:#64b5f6;text-decoration:none;">
+    \[paper\]
+  </a><br>
+<span style="font-size: 0.9em;">Wei Zuo, Chengyang Li, Yikun Wang, Bingyang Cheng, **Zeyi Ren**, Shuai Wang, Derrick Wing Kwan Ng, Yik-Chung Wu</span>
 <br clear="left"/>
 
 
