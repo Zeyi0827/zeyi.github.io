@@ -7,7 +7,22 @@ redirect_from:
   - /about.html
 ---
 <p>
-👋😀Hi, I’m Zeyi Ren, a M.Phil. student at the
+👋😀Hi, I’m Zeyi Ren, a Ph.D. student at 
+  <a href="https://network.ee.tsinghua.edu.cn/niulab/" style="color:purple;text-decoration:none;">
+    Niulab
+  </a>
+  at the Department of EE,
+  <a href="https://www.ee.tsinghua.edu.cn/" style="color:purple;text-decoration:none;">
+    Tsinghua University (THU)
+  </a>
+  , under the supervision of 
+  <a href="https://web.ee.tsinghua.edu.cn/niuzhisheng/zh_CN/index.htm" style="color:purple;text-decoration:none;">
+    Prof. Zhisheng Niu
+  </a> and 
+  <a href="https://web.ee.tsinghua.edu.cn/zhousheng/zh_CN/index.htm" style="color:purple;text-decoration:none;">
+    Prof. Sheng Zhou
+  </a>.
+  Before that, I obtained my M.Phil. degree at the 
   <a href="https://www.eee.hku.hk/" style="color:#00acc1;text-decoration:none;">
     Department of EEE, The University of Hong Kong (HKU)
   </a>,
@@ -15,7 +30,7 @@ redirect_from:
   <a href="https://www.eee.hku.hk/~ycwu/" style="color:#00acc1;text-decoration:none;">
     Prof. Yik-Chung Wu
   </a>.
-  Before that, I obtained my B.Eng. degree in Electronics and Information Engineering from
+  I obtained my B.Eng. degree in Electronics and Information Engineering from
   <a href="https://sie.bit.edu.cn/" style="color:#00acc1;text-decoration:none;">
     Beijing Institute of Technology (BIT)
   </a>.
@@ -31,21 +46,7 @@ redirect_from:
   <a href="https://www.gbu.edu.cn/" style="color:#00acc1;text-decoration:none;">
     Great Bay University
   </a>
-  as Associate Professor in March 2025). I have also worked as a research intern at <span style="color: red;">Huawei Shanghai RAN Research Department</span>, focused on AI/ML in RAN. After the MPhil graduation, I will join 
-  <a href="https://network.ee.tsinghua.edu.cn/niulab/" style="color:purple;text-decoration:none;">
-    Niulab
-  </a>
-  at the Department of EE,
-  <a href="https://www.ee.tsinghua.edu.cn/" style="color:purple;text-decoration:none;">
-    Tsinghua University (THU)
-  </a>
-  as a PhD student, under the supervision of 
-  <a href="https://web.ee.tsinghua.edu.cn/niuzhisheng/zh_CN/index.htm" style="color:purple;text-decoration:none;">
-    Prof. Zhisheng Niu
-  </a> and 
-  <a href="https://web.ee.tsinghua.edu.cn/zhousheng/zh_CN/index.htm" style="color:purple;text-decoration:none;">
-    Prof. Sheng Zhou
-  </a>  
+  as Associate Professor in March 2025). I have also worked as a research intern at <span style="color: red;">Huawei Shanghai RAN Research Department</span>, focused on AI/ML in RAN.
 </p>
 
 My research interests mainly focus on **Interpretable-AI for Wireless Communications**🌐 , **Model-based Deep Learning**📖 and **Intelligent Unmanned Systems**🏙️.<br>
