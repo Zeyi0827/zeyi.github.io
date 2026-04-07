@@ -180,13 +180,13 @@ Full list in
 <img src="images/THU2026.png" align="left" width="100" height="125"/>
     **Tsinghua University**<br>
     **Ph.D. in Information and Communication Engineering**<br>
-    Starting from September 2026
+    January 2026 to present
 <br clear="left"/>
 
 <img src="images/HKU.png" align="left" width="100" height="125"/>
     **The University of Hong Kong**<br>
     **M.Phil. in Wireless Communications and Machine Learning**<br>
-    September 2023 to present
+    September 2023 to November 2025
 <br clear="left"/>
 
 <img src="images/BIT.png" align="left" width="100" height="125"/>
