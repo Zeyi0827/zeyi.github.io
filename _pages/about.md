@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p>
-👋😀Hi, I’m Zeyi Ren, a Ph.D. student at 
+👋😀Hi, I’m Zeyi Ren, a first-year Ph.D. student at 
   <a href="https://network.ee.tsinghua.edu.cn/niulab/" style="color:purple;text-decoration:none;">
     Niulab
   </a>
