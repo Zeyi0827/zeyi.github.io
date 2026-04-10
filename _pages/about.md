@@ -60,6 +60,7 @@ I’m also a Bilibili influencer with 200 k followers, where you can check my vi
 
 🔥 News
 ------
+<span style="color: red;"> **[2026.04]** </span> 🎉 One paper is accepted in *IEEE Robotics and Automation Letters*.<br>
 **[2026.01]** 🖊️ Start serving as a reviewer of *IEEE Transactions on Wireless Communications*.<br>
 <span style="color: red;"> **[2026.01]** </span> 🎉 One paper is accepted in *IEEE International Conference on Communications*.<br>
 <span style="color: red;"> **[2026.01]** </span> 🎉 One paper is accepted in *IEEE ICASSP*.<br>
@@ -90,7 +91,7 @@ I’m also a Bilibili influencer with 200 k followers, where you can check my vi
 - <a href="https://arxiv.org/abs/2512.00375" style="color:black;text-decoration:none;">
     **DPNet: Doppler LiDAR Motion Planning for Highly-Dynamic Environments**
   </a><br>
-<span style="color: black;">*Preprint* </span><br>
+<span style="color: black;">*IEEE Robotics and Automation Letters* </span><br>
 <a href="https://arxiv.org/pdf/2512.00375" style="color:#64b5f6;text-decoration:none;">
     \[paper\]
   </a>
