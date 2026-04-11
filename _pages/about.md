@@ -95,7 +95,7 @@ I’m also a Bilibili influencer with 200 k followers, where you can check my vi
 <a href="https://arxiv.org/pdf/2512.00375" style="color:#64b5f6;text-decoration:none;">
     \[paper\]
   </a>
-<a href="https://www.youtube.com/watch?v=0-fzaFXYKvg" style="color:#64b5f6;text-decoration:none;">
+<a href="https://youtu.be/fjQ_o6b9oSg?si=za7-sqzEWlSHL7H1" style="color:#64b5f6;text-decoration:none;">
     \[video\]
   </a><br>
 <span style="font-size: 0.9em;">Wei Zuo, **Zeyi Ren**, Chengyang Li, Yikun Wang, Mingle Zhao, Shuai Wang, Wei Sui, Fei Gao, Yik-Chung Wu, Chengzhong Xu</span>
