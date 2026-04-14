@@ -96,8 +96,11 @@ I’m also a Bilibili influencer with 200 k followers, where you can check my vi
     \[paper\]
   </a>
 <a href="https://youtu.be/fjQ_o6b9oSg?si=za7-sqzEWlSHL7H1" style="color:#64b5f6;text-decoration:none;">
-    \[video\]
+    \[YouTube\]
   </a><br>
+<a href="https://www.bilibili.com/video/BV17MQvBxEUa/?spm_id_from=333.337.search-card.all.click" style="color:#64b5f6;text-decoration:none;">
+    \[Bilibili\]
+  </a><br>https://www.bilibili.com/video/BV17MQvBxEUa/?spm_id_from=333.337.search-card.all.click
 <span style="font-size: 0.9em;">Wei Zuo, **Zeyi Ren**, Chengyang Li, Yikun Wang, Mingle Zhao, Shuai Wang, Wei Sui, Fei Gao, Yik-Chung Wu, Chengzhong Xu</span>
 <br clear="left"/>
 
