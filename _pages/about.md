@@ -110,7 +110,7 @@ I’m also a Bilibili influencer with 200 k followers, where you can check my vi
 - <a href="https://arxiv.org/abs/2604.11098" style="color:black;text-decoration:none;">
     **Efficient Transceiver Design for Aerial Image Transmission and Large-scale Scene Reconstruction**
   </a><br>
-<span style="color: black;">*IEEE ISIT-w* </span><br>
+<span style="color: black;">*IEEE ISIT-w 2026* </span><br>
 <a href="https://arxiv.org/pdf/2604.11098" style="color:#64b5f6;text-decoration:none;">
     \[paper\]
   </a><br>
